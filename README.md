@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @YaseinAbuqlawa
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning flutter and node.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile development
 - 📫 How to reach me yaseinabuqlawa@gmail.com or +971563000195
 
 <!---
